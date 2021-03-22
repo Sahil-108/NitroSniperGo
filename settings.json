@@ -6,13 +6,13 @@
     ]
   },
   "status": {
-    "main": "invisible",
+    "main": "online",
     "alts": "invisible"
   },
   "nitro": {
     "max": 2,
     "cooldown": 24,
-    "main_sniper": false,
+    "main_sniper": true,
     "delay": false
   },
   "giveaway": {
