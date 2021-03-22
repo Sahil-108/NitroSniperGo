@@ -1,22 +1,22 @@
 {
   "tokens": {
-    "main": "",
+    "main": "ODIzNjEyMjc1ODIyNDI4MTcy.YFjXXA.76TwuWyme9tlDSZNKhG_iPwNodM",
     "alts": [
-      ""
+      "ODIzNjEzNzc3MTM1NDAzMDM5.YFjYMw.HT-Yg6_dtVlXMEVcSJuJJsn2uhE"
     ]
   },
   "status": {
-    "main": "",
+    "main": "invisible",
     "alts": "invisible"
   },
   "nitro": {
     "max": 2,
     "cooldown": 24,
-    "main_sniper": true,
-    "delay": true
+    "main_sniper": false,
+    "delay": false
   },
   "giveaway": {
-    "enable": true,
+    "enable": false,
     "delay": 15,
     "dm": "Hey, I won a giveaway !",
     "dm_delay": 25,
@@ -33,17 +33,17 @@
   "invite": {
     "enable": true,
     "delay": {
-      "min": 10,
-      "max": 20
+      "min": 1,
+      "max": 5
     },
-    "max": 10,
-    "cooldown": 6
+    "max": 50,
+    "cooldown": 25
   },
   "privnote": {
-    "enable": false
+    "enable": true
   },
   "webhook": {
-    "url": "",
-    "good_only": false
+    "url": "https://discord.com/api/webhooks/823613150753849364/JEhzQJBJWK-XHR_FhyYpPc3B5HimguTxMfvaYX3YNPmyP93Mrobsl8enJ5TNDCQkSl9-",
+    "good_only": true
   }
 }
