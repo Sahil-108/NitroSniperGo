@@ -269,7 +269,7 @@ func webhookNitro(code string, user *discordgo.User, guild string, channel strin
 			"name": "Nitro Sniped !"
 		  },
 		  "footer": {
-			"text": "NitroSniperGo made by Vedza"
+			"text": "NitroSniper made by Floppa"
 		  },
 		  "thumbnail": {
 			"url": "` + image + `"
