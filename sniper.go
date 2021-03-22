@@ -404,7 +404,7 @@ func webhookPrivnote(content string, user *discordgo.User, guild string, channel
 			"name": "Privnote Sniped !"
 		  },
 		  "footer": {
-			"text": "NitroSniperGo made by Vedza"
+			"text": "NitroSniper modifed by Floppa"
 		  },
 		  "thumbnail": {
         	"url": "https://images.emojiterra.com/twitter/512px/1f4cb.png"
